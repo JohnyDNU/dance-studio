@@ -1,0 +1,48 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "DanceStudio",
+    "packageName": "com.studio.dance",
+    "packageFolder": "com/studio/dance",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": "true",
+    "messageBroker": false,
+    "buildTool": "gradle",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "gatling"
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "ru",
+      "ua"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.4.1",
+    "jwtSecretKey": "MGVhYzU1NjJhYmZmYjkwMTExNDcyOWQyN2YyZTFiNGNkMzI1MTZmZTI3ZTUxNmRjNDMwZTJjNDBkMDFiNzg3NGQzNmZhYzkxZGFkZDNmMWQ3NzI5NjkwZjk4YjM2YWRjYjNmNjRhMDk1NjZjNGJhNzRjOGQ4YjI2YWY3YzFiZDQ=",
+    "embeddableLaunchScript": false,
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "blueprints": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "JohnyDNU",
+  "repository-name": "dance-studio"
+}
